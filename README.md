@@ -6,7 +6,7 @@ Materials for masterclass in quantitative humanities at Edinburgh, September 201
 
 Directories are named according to contents:
 
-* **Data** contains input data used for analysis. It has two subfolders, *Texts* and *Other*, containing, respectively, plain text versions of literary texts and other types of input data.
+* **Data** contains input data used for analysis. It has two subfolders, **Texts** and **Other**, containing, respectively, plain text versions of literary texts and other types of input data.
 * **Notebooks** contains code for the course in the form of Jupyter notebooks
 * **Readings** contains supplemental articles for discussion
 * **Results** contains the output of various analyses
