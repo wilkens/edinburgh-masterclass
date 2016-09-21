@@ -10,3 +10,4 @@ Directories are named according to contents:
 * **Notebooks** contains code for the course in the form of Jupyter notebooks
 * **Readings** contains supplemental articles for discussion
 * **Results** contains the output of various analyses
+* **Slides** contains a PDF of the opening lecture slides
